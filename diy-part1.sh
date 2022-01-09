@@ -13,7 +13,7 @@
 
 # Add a feed source
 # echo 'src-git helloworld https://github.com/fw876/helloworld' >>feeds.conf.default
-echo 'src-git openwrt-packages https://github.com/kenzok8/openwrt-packages' >>feeds.conf.default
+echo 'src-git packages https://github.com/kenzok8/openwrt-packages' >>feeds.conf.default
 echo 'src-git small https://github.com/kenzok8/small' >>feeds.conf.default
 
 # Lienol/openwrt-package
